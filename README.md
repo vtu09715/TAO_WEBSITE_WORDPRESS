@@ -86,6 +86,23 @@ https://word.vuductu.id.vn/?p=10
 # Kết quả 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/caeb312f-dbf2-45e6-97b5-94991b8de50b" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d56cc0b-16ab-44f5-b853-9cd8439b8d7a" />
+
+# Nhận xét 
+
+Qua quá trình triển khai website bằng mã nguồn mở WordPress trên Ubuntu sử dụng Docker, MariaDB, phpMyAdmin và Cloudflare Tunnel, em nhận thấy WordPress là một nền tảng mạnh và tương đối dễ sử dụng đối với người mới học phát triển web.
+
+Ưu điểm lớn nhất của WordPress là dễ tạo và quản lý nội dung. Người dùng không cần lập trình quá nhiều vẫn có thể tạo website, đăng bài viết, chèn hình ảnh, video, âm thanh và quản lý giao diện thông qua trang quản trị trực quan. Ngoài ra WordPress có cộng đồng sử dụng rất lớn nên dễ tìm tài liệu và plugin hỗ trợ.
+
+Trong quá trình triển khai, phần tốn nhiều công sức nhất phải là  Docker, Docker Compose, MariaDB, phpMyAdmin và Cloudflare Tunnel. Người triển khai cần hiểu về container, networking, port, domain và cơ sở dữ liệu để hệ thống hoạt động ổn định. Ban đầu việc cấu hình có thể khá khó với người mới, đặc biệt khi gặp các lỗi như xung đột port, sai cấu hình tunnel hoặc redirect domain.
+
+Về tài nguyên máy chủ, WordPress sử dụng nhiều tài nguyên hơn so với website tĩnh do cần chạy đồng thời nhiều thành phần như Apache/PHP, MariaDB và phpMyAdmin. Trong quá trình thực hành, hệ thống có thể tiêu tốn vài trăm MB RAM và sử dụng CPU nhiều hơn khi có nhiều truy cập hoặc cài thêm plugin. Vì vậy nếu triển khai trên VPS thực tế cần có cấu hình phù hợp để tránh website bị chậm.
+
+Một ưu điểm khác là WordPress là mã nguồn mở nên không mất phí bản quyền và có thể triển khai trên nhiều môi trường khác nhau. Khi kết hợp với Docker giúp việc triển khai, sao lưu và di chuyển hệ thống trở nên thuận tiện hơn. Ngoài ra Cloudflare Tunnel hỗ trợ public website ra Internet mà không cần IP public hoặc cấu hình NAT phức tạp.
+
+Tổng kết lại, WordPress là nền tảng phù hợp cho việc xây dựng blog, website cá nhân hoặc website giới thiệu. Việc sử dụng Docker và Cloudflare giúp tăng tính linh hoạt và hiện đại trong triển khai hệ thống, tuy nhiên người dùng cần có kiến thức cơ bản về Linux và mạng để xử lý các lỗi phát sinh trong quá trình cấu hình.
+
+
 
 
 
