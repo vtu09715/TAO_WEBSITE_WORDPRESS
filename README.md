@@ -40,9 +40,10 @@
 # 10. Cấu hình subdomain trên Cloudflare
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73b4d6d8-e352-42f4-bb76-f74aeff41184" />
 
+# 11. Kiểm tra website public 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb4fe1ba-7703-4775-ba2b-3e47a9372fbf" />
 
-
-
+# 12. Tạo bài viết giới thiệu bản thân
 
 
 
